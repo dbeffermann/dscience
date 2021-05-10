@@ -27,15 +27,3 @@ if __name__ == '__main__':
 	main()
 
 
-#session_id = "1015959897%3AHW1EBFc7sQ7SC1%3A24"
-
-#users = ["esterillaschile", "blanca.ferval"]
-
-
-#data = analyze_users_popularity(users, session_id)
-#st.table(pd.DataFrame(data))
-
-
-#user = InstagramUser(users[0], from_cache=True)
-#st.write(user.user_data)
-#list(map(lambda user: st.write(InstagramUser(user, from_cache=True)), users))
